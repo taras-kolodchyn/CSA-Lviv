@@ -1,2 +1,6 @@
 
 .DS_Store
+/.vs
+/Cisco-Stealthwatch/WebApp/.vs/WebApp/v16
+/Cisco-Stealthwatch/WebApp/bin/Debug/netcoreapp2.2
+/Cisco-Stealthwatch/WebApp/obj
